@@ -5,10 +5,11 @@
 ![Функции кнопки старт](https://github.com/Timiandr/weather-bot/blob/main/start.jpg)
 ![](https://github.com/Timiandr/weather-bot/blob/main/start2.jpg)
 ## Функция составления отчёта
-![Отчёт]()
+![Отчёт](https://github.com/Timiandr/weather-bot/blob/main/report.jpg)
 ## Функция прогнозирования
-![Прогноз]()
+![Прогноз](https://github.com/Timiandr/weather-bot/blob/main/forecast.jpg)
 ## Функция мониторинга
-![Мониторинг]()
+![Мониторинг](https://github.com/Timiandr/weather-bot/blob/main/monitoring.jpg)
+![](https://github.com/Timiandr/weather-bot/blob/main/monitoring2.jpg)
 ## Дополнительно
 ![Назад]()
