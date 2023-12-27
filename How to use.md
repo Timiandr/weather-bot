@@ -12,4 +12,4 @@
 ![Мониторинг](https://github.com/Timiandr/weather-bot/blob/main/monitoring.jpg)
 ![](https://github.com/Timiandr/weather-bot/blob/main/monitoring2.jpg)
 ## Дополнительно
-![Назад]()
+Для того чтобы пользователь смог вернуться к выбору города  или выбору функций для города нужно снова написать /start
